@@ -65,6 +65,7 @@
 }
 
 .header__contact__link {
+    font-style: normal;
     color: black;
     text-underline-offset: 4px;
     line-height: 24.3px;
